@@ -40,14 +40,14 @@ UETGuide Chatbot is an AI-powered question-answering system designed to help use
     python app.py
     ```
 
-5. **Access the Gradio UI**:
-   - Open your browser and navigate to `http://localhost:7860`.
+
 
 ## Usage
 - Once running, the Gradio UI will load the chatbot interface. Users can input questions related to UET, and the chatbot will generate responses based on available data.
 
 ## Demo Video
 Check out a demo of the chatbot in action below:
+https://youtu.be/xWeDDBV8SpY
 
 
 
