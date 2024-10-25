@@ -1,5 +1,5 @@
 # UETGuide-Chatbot
-I’ll add **Hugging Face Embeddings** to the technology section in the README. Here’s the updated README draft:
+
 
 ---
 
