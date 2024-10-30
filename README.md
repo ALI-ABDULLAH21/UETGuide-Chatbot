@@ -19,20 +19,21 @@ UETGuide Chatbot is an AI-powered question-answering system designed to help use
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/ALI-ABDULLAH21/UETGuide-Chatbot
     cd UETGuideChatbot
     ```
 
 2. **Install required packages**:
+   if you download file as .py you need to install all required packages by this command otherwise manually  in notebook:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set up Qdrant Vector Database**:
+4. **Set up Qdrant Vector Database**:
    - Follow [Qdrant’s setup guide](https://qdrant.tech/documentation/) to configure the database.
    - Ensure API endpoints and access keys are correctly set in your environment variables or configuration file.
 
-4. **Run the Application**:
+5. **Run the Application**:
     ```bash
     python app.py
     ```
